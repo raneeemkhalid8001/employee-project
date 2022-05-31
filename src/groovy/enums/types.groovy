@@ -1,0 +1,5 @@
+
+
+enum types{
+    home,business
+}
